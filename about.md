@@ -6,12 +6,12 @@ permalink: /about/
 
 ![my alternate text](/static/img/ct.jpg) **Professional Software Developer and Brazilian Jiu-jitsu practitioner**
 
-I have been dedicating the most of my career to architecturing solutions with NodeJS, Rails, and ASP.net/Core. The last years, I have been working with Ruby and Rails, which I very like it a lot
+I have been dedicating the most of my career to architecturing solutions with NodeJS, Rails, and ASP.net/Core.
 
-I love Jiu-jitsu, I have been practicing it since some years and I had the opportunity to fight in some national tournaments
- 
-I have heard a person do a comparison between playing guitar and software development. Maybe someday, I will write a post with a good comparison between Jiu-jitsu and software development
+I love Jiu-jitsu and have been practicing it for several years. I have had the opportunity to compete in some national tournaments.
 
-This picture was took a day in 2019. We usualy take a picture after each training
+I have heard someone make a comparison between playing the guitar and software development. Perhaps someday, I will write a post with a good comparison between Jiu-jitsu and software development.
+
+This picture was taken on a day in 2019. We usually take a picture after each training session.
 ![my alternate text](/static/img/jiu-jitsu.jpg)
 
