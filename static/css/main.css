@@ -1,10 +1,10 @@
 .well-primary {
-    background-color: #00951dfa !important;
+    background-color: #006AB2 !important;
 }
 
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: #00951dfa;
+    background-color: #006AB2;
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -59,7 +59,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #00951dfa;
+    color: #006AB2;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -67,7 +67,7 @@ p.info a {
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
-    background: #00951dfa;
+    background: #006AB2;
 }
 .menu ul li {
     list-style: none;
@@ -75,7 +75,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #57B025;
+    background: #047ED1
 }
 li.current-menu-item:before {
     content: "";
@@ -85,7 +85,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #90CA28;
+    background: #36A8F5;
 }
 .menu ul li a {
     font-size: 15px;
